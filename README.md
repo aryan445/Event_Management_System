@@ -11,15 +11,20 @@ Responsive Design: The system is designed to be responsive and user-friendly on 
 
 # Technologies Used
 Frontend: HTML, CSS
+
 Backend: PHP
+
 Database: MySQL
 
 # Installation
 Clone the repository:
 git clone https://github.com/your-username/college-event-management-system.git
-Set up the database:
+
+Set up the database: 
 Create a MySQL database and import the provided SQL file to set up the necessary tables.
+
 Modify the database connection settings in the config.php file.
+
 Deploy the application on a local or web server with PHP support (e.g., XAMPP, WAMP, or a live hosting server).
 
 Access the system by navigating to the appropriate URL.
@@ -38,5 +43,7 @@ Information such as name, contact, and event details will be stored in the datab
 
 # Future Enhancements
 Event Notifications: Add automated email or SMS notifications for event reminders.
+
 Event Scheduling: Enable event organizers to manage and schedule multiple events.
+
 Analytics: Include reports and analytics on event attendance and registrations.
